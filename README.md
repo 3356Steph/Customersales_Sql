@@ -23,6 +23,14 @@ This migration script updates customer records with new address information and 
 2. Run the queries in the respective SQL files.
 3. Adjust the queries according to your database schema if necessary.
 
+## Technologies Used
+
+The project is implemented entirely with **SQL**, using **MySQL** to manage and query the database. The scripts provided in the repository are designed to:
+- **Create** the database schema
+- **Populate** the database with sample data
+- **Analyze** the database using various SQL queries
+
+
 ## License
 This project is licensed under the MIT License.
 
