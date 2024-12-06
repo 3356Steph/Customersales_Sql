@@ -1,6 +1,6 @@
 # Customer Sales Project
 
-This repository contains SQL files related to the **Customer Sales** project. The project is aimed at managing customer sales data, generating reports, and performing data migrations.
+The Customer Sales Project focuses on managing and analyzing sales data, including customer details, products, transactions, and sales performance. It helps track customer behavior, sales trends, and product performance, providing valuable insights for decision-making. This project is ideal for learning database design, SQL queries, and data analysis for sales and customer management systems.
 
 ## Project Structure
 - **reports/**: Contains SQL queries to generate various sales reports.
